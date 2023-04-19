@@ -5,6 +5,7 @@ public class MiClase {
 		// TODO Auto-generated method stub
 		System.out.println("inicio");
 		String asignaturas= "Entornos";
+		System.out.println("1");
 	}
 
 }
