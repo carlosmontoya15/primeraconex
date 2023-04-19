@@ -8,5 +8,6 @@ public class MiClase {
 		System.out.println("1");
 		System.out.println("Rama2");
 		System.out.println("Rama2.1");
+		System.out.println("Rama2.2");
 	}
 }
